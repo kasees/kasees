@@ -1,5 +1,6 @@
 ## Hi there 👋
-## H2 Kasees Gurung
+### Kasees Gurung
+#### <u> A Passionate IT Student </u>
 <a href=" https://youtu.be/yRpLlJmRo2w?si=dOW10SK7zr8MZ487" It includes full lecture of java</a>
 
 <!--
