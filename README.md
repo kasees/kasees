@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Kasees Gurung
 #### <i> A Passionate IT Student </i>
-<a href= Full lecture of Java "https://youtu.be/yRpLlJmRo2w?si=dOW10SK7zr8MZ487"</a>
+<a href=Full lecture of Java"https://youtu.be/yRpLlJmRo2w?si=dOW10SK7zr8MZ487"</a>
 ##### My achievements
 
 <ol>
